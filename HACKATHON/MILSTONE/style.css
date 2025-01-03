@@ -1,0 +1,50 @@
+/* Genral Styling */
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 150px;
+}
+.resume-container{
+    display: flex;
+    background-color:white;
+    width: 70%;
+    margin: 0 auto;
+    border-radius: 15x;
+    box-shadow: 0 0 20px black;
+
+}
+
+.left-section{
+    background-color: white;
+    color: black;
+    padding: 20px;
+    width: 35%;
+    text-align: center;
+    border-right: 5px solid white;
+}
+.profile-picture{
+    width: 150px;
+    height: 150px;
+    margin-top: 10%;
+    border-radius: 50%;
+    border: 5px solid black;
+    margin-bottom: 20px;
+}
+h1{
+    font-size: 24px;
+    margin: 10px 0;
+    margin-bottom: 30px;
+    text-align: center;
+}
+h3{
+    font-size: 20px;
+    padding: 2%;
+    margin: 20px 0 10px;
+    color: black;
+    border-radius: 10px;
+    box-shadow: 0 0 15px seagreen;
+    margin-top: 1;
+    margin-bottom: 5%;
+    text-align: center;
+}
